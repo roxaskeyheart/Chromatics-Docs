@@ -1,3 +1,7 @@
+---
+description: RGB Lighting effects for FINAL FANTASY XIV
+---
+
 # Welcome to Chromatics
 
 {% hint style="danger" %}
