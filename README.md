@@ -4,9 +4,13 @@
 **Important:** We are now discontinuing support for DX9. Please use DX11 instead.
 {% endhint %}
 
-**LOOKING FOR C\# DEVELOPERS TO HELP MAINTAIN THIS - Please contact me if you're keen to get involved!**
+{% hint style="info" %}
+**LOOKING FOR C\# DEVELOPERS TO HELP MAINTAIN THIS**  
+Please contact @[roxaskeyheart ****](https://github.com/roxaskeyheart/)if you're keen to get involved!
+{% endhint %}
 
-**We now have a support Discord:** [Join Support Discord](https://discord.gg/sK47yFE)
+**We now have a support Discord:**   
+[![](https://discordapp.com/api/guilds/334196655131721741/widget.png?style=banner2)](https://discord.gg/sK47yFE)
 
 ![](http://thejourneynetwork.net/chromatics/chromatics_black_md.png)
 
