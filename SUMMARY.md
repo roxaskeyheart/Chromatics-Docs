@@ -4,6 +4,6 @@
 * [Features](features.md)
 * [Prerequisites](prerequisites.md)
 * [Installation](installation.md)
-* [LICENSE](license.md)
 * [Credits](credits.md)
+* [LICENSE](license.md)
 
