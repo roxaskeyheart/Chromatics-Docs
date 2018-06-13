@@ -1,6 +1,6 @@
 # Welcome to Chromatics
 
-{% hint style="warning" %}
+{% hint style="danger" %}
 **Important:** We are now discontinuing support for DX9. Please use DX11 instead.
 {% endhint %}
 
@@ -20,7 +20,9 @@ Please contact @[roxaskeyheart ****](https://github.com/roxaskeyheart/)if you're
 
 **NEW Chromatics V2 Released!** Does not require ACT to function.
 
+{% hint style="warning" %}
 **Please remove the Chromatics plugin from ACT and install Version 2 BETA**
+{% endhint %}
 
 Chromatics is a lightweight third-party companion app which connects FINAL FANTASY XIV with Razer Chroma, Logitech & Corsair RGB devices. Additionally it enables off-screen compatibility with the Logitech ARX mobile app.
 
