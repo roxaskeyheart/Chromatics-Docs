@@ -1,6 +1,6 @@
 # Table of contents
 
-* [README](README.md)
+* [Welcome to Chromatics](README.md)
 * [README](build-dependencies/README.md)
   * [core](build-dependencies/core/README.md)
     * [assets](build-dependencies/core/assets/README.md)
