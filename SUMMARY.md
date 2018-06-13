@@ -3,4 +3,5 @@
 * [Welcome to Chromatics](README.md)
 * [LICENSE](license.md)
 * [Features](features.md)
+* [Prerequisites](prerequisites.md)
 
